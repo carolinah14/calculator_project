@@ -1,6 +1,6 @@
 # Calculator (Python)
 
-A Python console-based calculator application that performs basic arithmetic operations. The program allows users to continuously calculate using previous results or start a new calculation, implementing the use of recursion, functions, dictionaries, loops, and program flow control.
+A Python console-based calculator application that performs basic arithmetic operations. The program allows users to continuously calculate using previous results or start a new calculation. Implementing the use of recursion, functions, dictionaries, loops, and program flow control.
 
 ## ▶️ How to Run
 
